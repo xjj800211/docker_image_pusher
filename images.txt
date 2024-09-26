@@ -1,1 +1,1 @@
---platform=linux/arm64 ollama/ollama
+infiniflow/ragflow:dev
