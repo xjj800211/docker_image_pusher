@@ -1,1 +1,2 @@
-mysql:8.4
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.4.8
