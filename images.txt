@@ -1,1 +1,1 @@
-infiniflow/ragflow:dev
+mysql:8.4
