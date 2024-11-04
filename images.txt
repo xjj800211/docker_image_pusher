@@ -1,2 +1,1 @@
-xprobe/xinference:latest
-mysql:8.0.39
+ollama/ollama:0.3.14
