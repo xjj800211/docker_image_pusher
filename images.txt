@@ -1,1 +1,1 @@
-zilliz/attu:v2.4
+huggingface/transformers-pytorch-deepspeed-amd-gpu:latest
