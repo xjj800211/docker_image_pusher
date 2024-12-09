@@ -1,1 +1,1 @@
-huggingface/transformers-pytorch-deepspeed-amd-gpu:latest
+ollama/ollama:0.5.1
