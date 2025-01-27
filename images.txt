@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.4
+ollama/ollama:0.5.7
