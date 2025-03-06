@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.17.0-slim
+lmsysorg/sglang:latest
