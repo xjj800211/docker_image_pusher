@@ -1,1 +1,1 @@
-bytez/another-symato_finetune_bge_m3:latest
+ollama/ollama:0.6.7-rc0
