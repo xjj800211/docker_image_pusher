@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0
+ubuntu/squid:latest
