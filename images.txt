@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+langgenius/dify-api:1.3.1
