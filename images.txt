@@ -1,1 +1,1 @@
-ollama/ollama:0.7.0
+--platform=arm64 quay.io/ascend/vllm-ascend:v0.9.0rc2
