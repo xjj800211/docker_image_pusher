@@ -1,1 +1,1 @@
---platform=arm64 quay.io/ascend/vllm-ascend:v0.9.0rc2
+--platform=arm64 okoko/python-torch:2.3.1-3.11.10
