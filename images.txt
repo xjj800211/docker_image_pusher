@@ -1,1 +1,1 @@
-diffusers/diffusers-onnxruntime-cuda:latest
+kibaes/onnxruntime-server:1.19.2-linux-cuda12
