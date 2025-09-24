@@ -1,1 +1,1 @@
-nicholaskao/python-cuda:3.10-cuda11.8-runtime
+pytorch/pytorch:2.7.1-cuda11.8-cudnn9-runtime
