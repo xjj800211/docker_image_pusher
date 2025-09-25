@@ -1,1 +1,1 @@
-pytorch/pytorch:2.7.1-cuda11.8-cudnn9-runtime
+owasp/modsecurity-crs:4.18.0-nginx-202509220609
