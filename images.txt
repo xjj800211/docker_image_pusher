@@ -1,1 +1,1 @@
-owasp/modsecurity-crs:4.18.0-nginx-202509220609
+gitlab/gitlab-ce:latest
