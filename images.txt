@@ -1,1 +1,1 @@
-teamide/teamide-server:latest
+docker:dind
