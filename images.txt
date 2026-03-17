@@ -1,1 +1,1 @@
-pytorch/pytorch:2.10.0-cuda12.6-cudnn9-runtime
+vllm/vllm-openai:qwen3_5-x86_64-cu129
