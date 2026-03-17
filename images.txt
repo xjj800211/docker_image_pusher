@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen3_5-x86_64-cu129
+vllm/vllm-openai:v0.17.1-cu130
