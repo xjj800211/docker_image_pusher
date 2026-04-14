@@ -1,1 +1,1 @@
-ollama/ollama:0.18.2
+vllm/vllm-openai-cpu:latest-x86_64
