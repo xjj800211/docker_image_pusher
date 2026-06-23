@@ -1,1 +1,1 @@
-imsysorg/sglang:v0.5.10
+ghcr.io/ggml-org/llama.cpp:server-cuda
