@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:server-cuda
+vllm/vllm-openai-cpu:latest-x86_64 
