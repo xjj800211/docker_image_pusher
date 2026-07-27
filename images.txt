@@ -1,1 +1,1 @@
-vllm/vllm-openai-cpu:latest-x86_64 
+tensorflow/tensorflow:1.14.0-py3
