@@ -1,1 +1,1 @@
-ghcr.io/shimat/opencvsharp/ubuntu22-dotnet6-opencv4.7.0:20230114
+python:3.7
